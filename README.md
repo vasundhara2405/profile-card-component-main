@@ -1,4 +1,5 @@
 [Click for preview](https://vasundhara2405.github.io/profile-card-component-main/)
+
 # Frontend Mentor - Profile card component
 
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
